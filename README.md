@@ -11,4 +11,4 @@
 [![Vk](https://img.shields.io/badge/-Vk-2c2d2c?style=for-the-badge&logo=Vk)](https://vk.com/userror)
 [![Instagram](https://img.shields.io/badge/-Instagram-2c2d2c?style=for-the-badge&logo=Instagram)](https://www.instagram.com/_userror_/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Userror101&layout=dark)](https://github.com/Userror101/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Userror101&langs_count=)](https://github.com/Userror101/github-readme-stats)
