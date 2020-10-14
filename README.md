@@ -10,3 +10,6 @@
 ### Folow me
 [![Vk](https://img.shields.io/badge/-Vk-2c2d2c?style=for-the-badge&logo=Vk)](https://vk.com/userror)
 [![Instagram](https://img.shields.io/badge/-Instagram-2c2d2c?style=for-the-badge&logo=Instagram)](https://www.instagram.com/_userror_/)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Userror101&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Userror101&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
