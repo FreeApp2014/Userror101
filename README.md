@@ -6,6 +6,8 @@ About me
 
 🔭 I’m currently learning Swift
 
-Languages and Tools
+### Languages and Tools
+![Swift](https://img.shields.io/badge/-Swift-2c2d2c?style=for-the-badge&logo=Swift)
+![Python](https://img.shields.io/badge/-Python-2c2d2c?style=for-the-badge&logo=Python)
 
 Folow me
