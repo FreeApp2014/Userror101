@@ -10,4 +10,6 @@ About me
 ![Swift](https://img.shields.io/badge/-Swift-2c2d2c?style=for-the-badge&logo=Swift)
 ![Python](https://img.shields.io/badge/-Python-2c2d2c?style=for-the-badge&logo=Python)
 
-Folow me
+### Folow me
+[![Vk](https://img.shields.io/badge/-Vk-2c2d2c?style=for-the-badge&logo=Vk)](https://vk.com/userror)
+[![Instagram](https://img.shields.io/badge/-Instagram-2c2d2c?style=for-the-badge&logo=Instagram)](https://www.instagram.com/_userror_/)
